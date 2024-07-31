@@ -11,9 +11,37 @@ body{
 .main{
     display: flex;
     justify-content: space-evenly;
+    padding: 20px;
+    align-items: start;
     
 }
 .pictorial-news-section{
+    background-color: white;
+    padding: 5px;
+    width: 300px;
+    margin: 10px;
     text-align: center;
+    
 }
 
+.main-article{
+    background-color: white;
+    margin: 10px;
+
+}
+.latest-news-section{
+    background-color: white;
+    width: 300px;
+    border-radius: 5px;
+    text-align: center;
+    margin: 10px;
+    
+    
+
+}
+p{
+    width: 100%;
+}
+img{
+    width: 250px;
+}
