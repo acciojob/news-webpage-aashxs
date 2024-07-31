@@ -1,7 +1,8 @@
 .header{
+	text-align: center;
     background-color: #011e29;
-    padding: auto;
-    text-align: center;
+    padding: 10px;
+   
     color: white;
     font-size: large;
 }
@@ -12,15 +13,16 @@ body{
     display: flex;
     justify-content: space-evenly;
     padding: 20px;
-    align-items: start;
+    align-items: flex-start;
     
 }
 .pictorial-news-section{
+	 text-align: center;
     background-color: white;
     padding: 5px;
     width: 300px;
     margin: 10px;
-    text-align: center;
+    
     
 }
 
